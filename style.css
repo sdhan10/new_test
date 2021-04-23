@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 2em;
+}
+
+.top-container {
+  background-color: #98ddca;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  /* 16px = 100% = 1em */
+}
+
+.top-cloud {
+  position: relative;
+  top: 200px;
+  left: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
